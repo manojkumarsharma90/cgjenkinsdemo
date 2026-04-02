@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.abes</groupId>
-	<artifactId>SpringBootSecurityDemo</artifactId>
+	<artifactId>SpringBootRestDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootSecurityDemo</name>
+	<name>SpringBootRestDemo</name>
 	<description>web demo</description>
 	<url/>
 	<licenses>
