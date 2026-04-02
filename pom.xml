@@ -12,7 +12,7 @@
 	<artifactId>SpringBootRestDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBootRestDemo</name>
-	<description>web demo</description>
+	<description>spring boot restful web demo</description>
 	<url/>
 	<licenses>
 		<license/>
